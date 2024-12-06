@@ -5,7 +5,7 @@ This project is an Airline Management System developed using Python, SQLite, and
 
 
 Group Members:
-Nurjahan, Nurjahan (nurja1@lsu.edu) \n
-Saima Sanjida Shila (sshila1@lsu.edu) \n
+Nurjahan, Nurjahan (nurja1@lsu.edu) 
+Saima Sanjida Shila (sshila1@lsu.edu) 
 Kaushani Samarawickrama (ksamar2@lsu.edu)
 
